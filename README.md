@@ -28,7 +28,7 @@ Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 ## <span style="color: #9FD7F9;">Autor</span>
 
-Este proyecto fue desarrollado por [tu nombre o nombre de tu equipo].
+Este proyecto fue desarrollado por Jimena Rioja.
 
 ## <span style="color: #9FD7F9;">Contacto</span>
 
